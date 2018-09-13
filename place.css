@@ -1,5 +1,5 @@
 body {
-   background-image: url("free-website-background-clipart-11.jpg"); opacity: 0.5;
+   background-image: url("free-website-background-clipart-11.jpg"), opacity: 0.5; 
    background-color: #cccccc; 
 }
 * {
