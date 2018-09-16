@@ -1,19 +1,26 @@
 body {
    background-image: url("free-website-background-clipart-11.jpg"); 
-   background-color: #cccccc;
+   background-color: blue;
    background-size: cover;
 }
 * {
   font-family: Arial, Verdana, sans-Serif;
-  color: #665544;
+  color: orange;
   text-align: center;}
-#nav, #feature, .article, #footer {
+#nav, #feature, .article, #footer, .first, .second, .third, .forth {
   background-color: #efefef;
-  margin-top: 20px;
-  padding: 10px 0px 5px 0px;}
+  margin-top: 30px;
+  padding: 5px 0px 5px 0px;}
 #feature, .article {
-  height: 100px;}
+  height: 200px;}
+.first {
+height: 150px;}
+.second {
+height: 245px;}
+.third {
+height: 150px;}
+.forth {
+height: 155px;}
 li {
   display: inline;
   padding: 5px;}
-  
