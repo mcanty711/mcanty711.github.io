@@ -16,7 +16,7 @@ body {
 .first {
 height: 150px;}
 .second {
-height: 245px;}
+height: 255px;}
 .third {
 height: 150px;}
 .forth {
@@ -24,3 +24,9 @@ height: 155px;}
 li {
   display: inline;
   padding: 5px;}
+#feedback {
+  color: red;
+  background-repeat: no-repeat;
+  background-position: 550px 10px;
+  padding: 10px 0 0 22px;}
+#feedback.tip {background-image: url('tip.png');}
