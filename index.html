@@ -23,17 +23,41 @@
       <div class="second">
         <h2>Send e-mail to Marcus J Canty:</h2>
 
-<form action="email-form.php" method="post">
-Name:<br>
-<input type="text" name="name" id="name"><div id="feedback"></div>
-E-mail:<br>
-<input type="text" name="mail"><br>
-Comment:<br>
-<input type="text" name="comment" size="50"><br><br>
-<input type="submit" value="Send">
-<input type="reset" value="Reset">
 <br />
-</form>
+    <form action="php/processorder.php" method="post">
+     <table style="border: 0px;">
+     <tr style="background: #cccccc;">
+       <td style="width: 150px; text-align: center;">Item</td>
+       <td style="width: 15px; text-align: center;">Quantity</td>
+     </tr>
+     <tr>
+       <td>Tires</td>
+       <td><input type="text" name="tireqty" size="3"
+      maxlength="3" /></td>
+     </tr>
+     <tr>
+      <td>Oil</td>
+      <td><input type="text" name="oilqty" size="3"
+       maxlength="3" /></td>
+     </tr>
+     <tr>
+      <td>Spark Plugs</td>
+      <td><input type="text" name="sparkqty" size="3"
+         maxlength="3" /></td>
+     </tr>
+     <tr>
+      <td>Address</td>
+      <td><input type="text" name="address" size="50"
+         maxlength="50" /></td>
+     </tr>
+     <tr>
+     <td colspan="2" style="text-align: center;"><input type="submit" value="Submit
+ Order" /></td>
+     </tr>
+     </table>
+      </form>
+<br />
+        
       </div>
 <script src="add-surname.js"></script>
       <div class="third">
