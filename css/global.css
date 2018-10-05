@@ -1,0 +1,21 @@
+@import url("normalize.css");
+body {
+   background-image: url("../free-website-background-clipart-11.jpg"); 
+   background-color: blue;
+   background-size: cover;
+  font-family: Arial, Verdana, sans-Serif;
+  color: orange;
+  text-align: center;}
+.block-wrapper {
+  background-color: #efefef;
+  margin-top: 30px;
+  padding: 5px 0px 15px 0px;}
+li {
+  display: inline;
+  padding: 5px;}
+#feedback {
+  color: red;
+  background-repeat: no-repeat;
+  background-position: 340px 10px;
+  padding: 10px 0 0 22px;
+  background-image: url('../tip.png');}
