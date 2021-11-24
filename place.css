@@ -1,6 +1,6 @@
 body {
-   background-image: url("free-website-background-clipart-11.jpg") no-repeat fixed top center; 
-   background-color: green;
+   background-image: url("free-website-background-clipart-11.jpg"); 
+   background-color: blue;
    background-size: cover;
 }
 * {
