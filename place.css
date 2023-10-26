@@ -23,7 +23,8 @@ height: 225px;}
 .third {
 height: 125px;}
 .forth {
-height: 250px;}
+height: auto;
+}
 li {
   display: inline;
   padding: 5px;}
