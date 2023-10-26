@@ -17,7 +17,7 @@ body {
 #feature, .article {
   height: 200px;}
 .first {
-height: 150px;}
+height: fit-content;}
 .second {
 height: fit-content;}
 .third {
