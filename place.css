@@ -23,7 +23,7 @@ height: fit-content;}
 .third {
 height: auto;}
 .forth {
-height: fit-content; 
+min-height: 250; overflow: hidden; 
 }
 li {
   display: inline;
