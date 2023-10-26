@@ -23,7 +23,7 @@ height: auto;}
 .third {
 height: auto;}
 .forth {
-height: auto;
+height: fit-content; 
 }
 li {
   display: inline;
