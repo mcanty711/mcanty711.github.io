@@ -19,9 +19,9 @@ body {
 .first {
 height: 150px;}
 .second {
-height: 225px;}
+height: auto;}
 .third {
-height: 125px;}
+height: auto;}
 .forth {
 height: auto;
 }
