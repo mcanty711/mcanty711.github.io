@@ -19,7 +19,7 @@ body {
 .first {
 height: 150px;}
 .second {
-height: auto;}
+height: fit-content;}
 .third {
 height: auto;}
 .forth {
