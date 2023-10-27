@@ -25,7 +25,7 @@ height: auto;}
 .forth {
 min-height: 250; 
    overflow: hidden; 
-   justify-content: center;
+   margin: 0 auto;
 }
 li {
   display: inline;
