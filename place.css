@@ -23,7 +23,9 @@ height: fit-content;}
 .third {
 height: auto;}
 .forth {
-min-height: 250; overflow: hidden; 
+min-height: 250; 
+   overflow: hidden; 
+   justify-content: center;
 }
 li {
   display: inline;
