@@ -24,9 +24,7 @@ height: fit-content;}
 height: auto;}
 .forth {
 min-height: 250; 
-   overflow: hidden; 
-   display: flex;
-   justify-content: center;
+   overflow: hidden;
 }
 li {
   display: inline;
